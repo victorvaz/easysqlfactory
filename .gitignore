@@ -4,7 +4,6 @@
 .mtj.tmp/
 
 # Package Files #
-*.jar
 *.war
 *.ear
 
@@ -12,4 +11,3 @@
 hs_err_pid*
 /Easy SQL Factory/nbproject/private/
 /Easy SQL Factory/build/
-/Easy SQL Factory/dist/
